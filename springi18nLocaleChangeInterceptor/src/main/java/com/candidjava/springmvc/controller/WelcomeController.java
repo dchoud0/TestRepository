@@ -12,7 +12,7 @@ public class WelcomeController extends AbstractController
 	@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response) throws Exception
 	{
-                System.out.println("Triggred  updated");
+                System.out.println("Triggred  updated  gdhdhdhhdh");
 		ModelAndView model = new ModelAndView("WelcomePage");
 
 		return model;
