@@ -2,7 +2,7 @@
 <body>
 <h4 style="text-align: center;">Internationalization in Spring MVC</h4>
 <ol>
-<li><a href="welcome.htm">Click Here Application</a> Welcome</li>
+<li><a href="welcome.htm">Click Here DINESH Application</a> Welcome</li>
 </ol>
 </body>
 </html>
